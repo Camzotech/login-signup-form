@@ -40,7 +40,7 @@ No installation or build process is required.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MarluVT/login-signup-form.git
+git clone 
 ```
 
 ### 2. Open the project
