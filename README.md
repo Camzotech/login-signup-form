@@ -98,5 +98,3 @@ Coming soon...
 ## 📄 License
 
 This project is available for educational and personal use. Check the original project/source for any applicable licensing requirements.
-
-This project is available for educational and personal use. Check the original project/source for any applicable licensing requirements.
