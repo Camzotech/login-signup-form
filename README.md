@@ -1,7 +1,3 @@
-Yeah 😂 The content is already decent, but those `[cite: 1]` bits look like they got accidentally dragged out of whatever generated the README. I'd also make it look more like an actual GitHub project README rather than documentation notes.
-
-Here's a cleaner version you can drop straight into `README.md`:
-
 # Responsive Animated Login & Registration Form
 
 A modern, responsive **Login & Registration Form** featuring smooth animated transitions between authentication views. Built from scratch using **HTML5, CSS3, and Vanilla JavaScript**, with a focus on clean UI, responsiveness, and simple implementation.
@@ -100,5 +96,7 @@ Coming soon...
 ```
 
 ## 📄 License
+
+This project is available for educational and personal use. Check the original project/source for any applicable licensing requirements.
 
 This project is available for educational and personal use. Check the original project/source for any applicable licensing requirements.
