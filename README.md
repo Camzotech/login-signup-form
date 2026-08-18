@@ -40,7 +40,7 @@ No installation or build process is required.
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/Camzotech/login-signup-form
 ```
 
 ### 2. Open the project
